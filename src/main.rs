@@ -16,9 +16,5 @@ fn main() {
 
     //take user input
     user_input(file, &curr_dir);
-
-    // file.write_all(RUST_CODE.as_bytes()).unwrap();
-    //  Compile the file
-    // compile();
 }
 
